@@ -13,3 +13,8 @@ A beautiful 3-D Heart Shape using C Programming.
 ![ww](https://user-images.githubusercontent.com/55308841/103392294-1a3c8d00-4b43-11eb-8e11-5d483b5c9257.png)
 
 ![uu](https://user-images.githubusercontent.com/55308841/103392298-1c065080-4b43-11eb-8053-280747a481f2.png)
+
+
+# Contributor
+
+Rahul Kumar , rahul13199kumar
